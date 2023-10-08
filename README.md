@@ -1,4 +1,4 @@
 # Cyber-Security-Capstone-Project
 ## Project Details:-
-Penetration Testing
-contacting a Pentesting on windows 7 lab and Ubuntu Lab and write a Vulnerability Assessment report with all your finding
+### Penetration Testing
+conducting Pentesting on Windows 7 professional Virtual Machine and Ubuntu Virtual Machine and writing a Vulnerability Assessment report with all finding
